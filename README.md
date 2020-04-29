@@ -1,1 +1,1 @@
-https://travis-ci.org/jayrc7/110travis.svg?branch=master
+(https://travis-ci.org/jayrc7/110travis.svg?branch=master)
